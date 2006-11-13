@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2006-11-13T10:28:48.495653Z"
+   url="file:///var/svn/icd/catalyst_plugin_i18n_dbic/trunk/t"
+   last-author="icydee"
+   kind="dir"
+   uuid="364936a5-d7fa-4b09-946b-f225ade75393"
+   repos="file:///var/svn/icd"
+   revision="30"/>
+<entry
+   committed-rev="31"
+   name="01use.t"
+   text-time="2006-11-13T10:34:10.000000Z"
+   committed-date="2006-11-13T11:52:23.623777Z"
+   checksum="56073b993207d222d4e6b55e8c40093b"
+   last-author="icydee"
+   kind="file"
+   prop-time="2006-11-13T10:29:56.000000Z"
+   revision="31"/>
+<entry
+   committed-rev="30"
+   name="03podcoverage.t"
+   text-time="2006-11-13T10:29:56.000000Z"
+   committed-date="2006-11-13T10:28:48.495653Z"
+   checksum="f4acc693cdc18a9deb19e38f264a863a"
+   last-author="icydee"
+   kind="file"
+   prop-time="2006-11-13T10:29:56.000000Z"/>
+<entry
+   committed-rev="30"
+   name="02pod.t"
+   text-time="2006-11-13T10:29:56.000000Z"
+   committed-date="2006-11-13T10:28:48.495653Z"
+   checksum="5fa1f5f3a1a09afdac0e54e450fa581f"
+   last-author="icydee"
+   kind="file"
+   prop-time="2006-11-13T10:29:56.000000Z"/>
+</wc-entries>
